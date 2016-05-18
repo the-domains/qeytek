@@ -28,13 +28,13 @@ color:
     - '#adadae'
     - '#910c07'
   rhythmicContrast: 0.7258065
-typography_spectrum: 0.2606548031326383
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.3799384529702365
+typography_spectrum: 1
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
