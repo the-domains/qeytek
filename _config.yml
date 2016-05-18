@@ -1,0 +1,28 @@
+name: Qeytek
+favicon: null
+layout_spectrum: 0.37993845297023654
+typography_spectrum: 0.26065480313263834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6354749430902302
+  lightness: 0.5512587812263519
+  saturation: 0.2893541359808296
+  rhythmicContrast: 0.17574971052818
+purpose: []
