@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Qeytek]]></title>
+        <description><![CDATA[Qeytek]]></description>
+        <link>https://thegrid.ai/qeytek/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 20:41:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/qeytek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ADDRESS:</p>]]></description>
+            <link>https://thegrid.ai/qeytek/address/index.html</link>
+            <guid isPermaLink="false">ed78834e-2cc6-4334-a040-516f44b2c86d</guid>
+            <pubDate>Wed, 18 May 2016 20:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/qeytek/c07585c9-88a5-4973-8c9c-dfd3e682e4dd/index.html</link>
+            <guid isPermaLink="false">c07585c9-88a5-4973-8c9c-dfd3e682e4dd</guid>
+            <pubDate>Wed, 18 May 2016 20:39:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
