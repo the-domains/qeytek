@@ -1,28 +1,40 @@
-name: Qeytek
 favicon: null
-layout_spectrum: 0.37993845297023654
-typography_spectrum: 0.26065480313263834
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Qeytek
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5949821
+  brandStrength: 0.6354749430902302
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#504f54'
     - '#808082'
     - '#adadae'
     - '#910c07'
-  brandStrength: 0.6354749430902302
-  lightness: 0.5512587812263519
-  saturation: 0.2893541359808296
-  rhythmicContrast: 0.17574971052818
-purpose: []
+  rhythmicContrast: 0.7258065
+typography_spectrum: 0.2606548031326383
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3799384529702365
+analytics:
+  twitter: null
+  google: null
+  facebook: null
