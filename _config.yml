@@ -1,5 +1,4 @@
-favicon: null
-name: Qeytek
+layout_spectrum: 0.9856631
 opengraph:
   image: null
   type: null
@@ -10,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5949821
-  brandStrength: 0.6354749430902302
+  brandStrength: 0.8494624
   lightness: 1
   brandColors:
     - '#ffffff'
@@ -29,12 +28,13 @@ color:
     - '#910c07'
   rhythmicContrast: 0.7258065
 typography_spectrum: 1
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Qeytek
